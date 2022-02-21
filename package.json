@@ -1,0 +1,19 @@
+{
+  "name": "@onejs-dev/onenativespecifics",
+  "version": "0.0.1",
+  "description": "",
+  "main": "oneNativeSpecifics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oneJS-dev/oneNativeSpecifics.git"
+  },
+  "author": "onejs-dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oneJS-dev/oneNativeSpecifics/issues"
+  },
+  "homepage": "https://github.com/oneJS-dev/oneNativeSpecifics#readme"
+}
